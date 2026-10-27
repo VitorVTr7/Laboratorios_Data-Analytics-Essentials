@@ -16,4 +16,6 @@ Laboratorios realizados do curso "Data Analytics Essentials" da Cisco Networking
 
 "Lab7.xlsx" - Criação de um gráfico de linhas | Criação de um gráfico de colunas | Criação de um gráfico de pizza
 
-/Interpretar visualizacoes em relacoes a valores discrepantes/ - Examinar um conjunto de dados para valores discrepantes | Usar um gráfico de dispersão para encontrar valores discrepantes | Usar as funções LARGE e SMALL para encontrar valores discrepantes
+/Interpretar visualizacoes em relacoes a valores discrepantes/ "Bike_Sales_Valoresdescrepantes.xlsx" - Examinar um conjunto de dados para valores discrepantes | Usar um gráfico de dispersão para encontrar valores discrepantes | Usar as funções LARGE e SMALL para encontrar valores discrepantes
+
+/Usando PROCV na Analise de Dados/ "Bike_Sales_PROCV.xlsx" - Análise inicial de um grande conjunto de dados | Aplicar a função PROCV
