@@ -19,3 +19,5 @@ Laboratorios realizados do curso "Data Analytics Essentials" da Cisco Networking
 /Interpretar visualizacoes em relacoes a valores discrepantes/ "Bike_Sales_Valoresdescrepantes.xlsx" - Examinar um conjunto de dados para valores discrepantes | Usar um gráfico de dispersão para encontrar valores discrepantes | Usar as funções LARGE e SMALL para encontrar valores discrepantes
 
 /Usando PROCV na Analise de Dados/ "Bike_Sales_PROCV.xlsx" - Análise inicial de um grande conjunto de dados | Aplicar a função PROCV
+
+/LaboratoriosSQL/ - Fotos das consultas realizadas através do SQL. Alguns tem um desafio proposto, enquanto outros são apenas para experimentar.
